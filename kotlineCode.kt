@@ -1,3 +1,7 @@
+// create a repository as gitTrainingProject in gitHub
+// sathyaBabu/gitTrainingProject
+// let's push this file since we have added this line
+
 fun main(args: Array<String>) {
     println("HelloKotlin!")
 
