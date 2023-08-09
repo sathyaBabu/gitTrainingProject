@@ -8,4 +8,5 @@ fun main(args: Array<String>) {
 }
 fun wifiProtocol(){
     println(" this function wifiProtocol is implemented by Viru..")
+    // fixed the bug by Suresh here....
 }
